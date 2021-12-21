@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "pjonatan",
 	"description": "A project that does something awesome","license": "MIT",
-  "version": "2.10.2",
+  "version": "1.0.0",
 	"keywords": [
 		"descriptive",
 		"related",
@@ -11,7 +11,7 @@
 	],
 	"dependencies": {
 		"express": "^4.14.0",
-    "moment": "^2.14.0"
+    "moment": "^2.10.0"
 	},
 	"main": "server.js",
 	"scripts": {
